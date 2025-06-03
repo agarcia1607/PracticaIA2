@@ -1,0 +1,15 @@
+# Ignorar archivos de resultados de entrenamiento
+df_v*.csv
+resultados.csv
+
+# Archivos temporales comunes
+*.log
+*.tmp
+*.bak
+
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
