@@ -1,0 +1,3 @@
+dataset,modelo,accuracy,precision,recall,f1-score
+df_v1.csv,Decisión:,0.59,0.36,0.36,0.36
+df_v1.csv,(PyTorch):,0.59,0.36,0.36,0.36
